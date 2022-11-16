@@ -1,0 +1,22 @@
+.profile {
+    background: grey;
+	font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.header {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	padding: 2%;
+}
+
+.post {
+	background: white;
+	width: 55rem;
+	margin: auto;
+}
+#mine {
+	object-fit: cover;
+	width: 55rem;
+    margin: auto;
+}
